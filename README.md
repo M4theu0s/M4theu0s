@@ -1,8 +1,8 @@
-### Hi there 👋 ###Boas vindas ao meu perfil de xadrez ♟️
+ ### Boas vindas ao meu perfil de xadrez ♟️
 
 Meu nome é Matheus 
 
--Estou estudando na Alura
+-Estou estudando na [Alura](https://www.alura.com.br)
 -Estou ne desenvolvendo na linguagem JavaScript
 -Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
